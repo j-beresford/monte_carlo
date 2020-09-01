@@ -1,2 +1,2 @@
 # Simple Monte Carlo  
-Example code, updated from HarvardX Data Science: Probability
+Example code, based on material from HarvardX Data Science: Probability. Note this allows for weighted estimates based on a weighted coin. 
